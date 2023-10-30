@@ -6,8 +6,9 @@ I'm contribuiting with a few NPM packages to the Open Source Community, feel fre
 
 ##
 
-Did you know? I am also a Certified Kubernetes Administrator 🙂
+Did you know? I am also a [Certified Kubernetes Administrator](https://www.credly.com/badges/08104359-709a-4150-b3b7-297d90f26ccf/public_url) 🙂
 
-[![Certified Kubernetes Administrator](https://github.com/sickdyd/sickdyd/assets/45290018/51dc8fdd-52af-42d9-8b10-1f28ec1f2170)](https://www.credly.com/badges/08104359-709a-4150-b3b7-297d90f26ccf/public_url)]
+[<img src="https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png">](https://www.credly.com/badges/08104359-709a-4150-b3b7-297d90f26ccf/public_url)
 
 📫 roberto.reale.ja@gmail.com
+
